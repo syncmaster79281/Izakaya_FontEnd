@@ -22,7 +22,8 @@
 ## 畫面:
 ![image](https://github.com/syncmaster79281/Izakaya_FrontEnd/assets/19486441/d2d48f16-ab05-4879-90c8-7869322dce09)
 
-
+## Demo
+[觀看期末專題影片](https://youtu.be/s2s-3N-cpwA?t=1102)
 
 ## 專案設置
 
